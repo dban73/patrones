@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="106ccc64-50c2-470e-8e4e-c809035b7bc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorator2/Cafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorator2/Configurable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorator2/EjemploDecoratorCafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorator2/decorators/CafeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorator2/decorators/ConChocolateDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorator2/decorators/ConCremaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorator2/decorators/ConLecheDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/composite/Archivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/composite/Componente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/composite/Directorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/composite/ejemplo/EjemploComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/composite/ejemplo/EjemploCompositeBuscar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1661807808931</updated>
       <workItem from="1661807810336" duration="3173000" />
-      <workItem from="1661824748901" duration="5909000" />
+      <workItem from="1661824748901" duration="6126000" />
+      <workItem from="1661867837384" duration="2923000" />
     </task>
     <servers />
   </component>
