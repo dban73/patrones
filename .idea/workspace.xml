@@ -2,22 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="106ccc64-50c2-470e-8e4e-c809035b7bc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorator/Formateable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorator/Texto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/factory/PizzaProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/factory/PizzeriaCaliforniaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/factory/PizzeriaNewYorkFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/factory/PizzeriaZonaAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/factory/ejemplo/EjemploFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/factory/producto/PizzaCaliforniaPepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/factory/producto/PizzaCaliforniaQueso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/factory/producto/PizzaCaliforniaVegetariana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/factory/producto/PizzaNewYorkItaliana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/factory/producto/PizzaNewYorkPepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/factory/producto/PizzaNewYorkVegetarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorador/EjemploDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorador/Formateable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorador/Texto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorador/decorator/MayusculasDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorador/decorator/RemplazarEspacioDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorador/decorator/ReverseDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorador/decorator/SubrayadoDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/nestor/patrones/decorador/decorator/TextoDecorador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/nestor/patrones/PizzaProduct.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661807808931</updated>
       <workItem from="1661807810336" duration="3173000" />
-      <workItem from="1661824748901" duration="3023000" />
+      <workItem from="1661824748901" duration="4159000" />
     </task>
     <servers />
   </component>

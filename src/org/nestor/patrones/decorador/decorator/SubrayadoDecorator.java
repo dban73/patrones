@@ -1,0 +1,20 @@
+package org.nestor.patrones.decorador.decorator;
+
+import org.nestor.patrones.decorador.Formateable;
+
+public class SubrayadoDecorator extends TextoDecorador{
+    public SubrayadoDecorator(Formateable texto) {
+        super(texto);
+    }
+
+    @Override
+    public String darFormato() {
+        int largo = texto.darFormato().length();
+        StringBuilder sb = new StringBuilder(texto.darFormato());
+        sb.append("\n");
+        for (int i = 0; i < largo; i++) {
+            sb.append("_");
+        }
+        return sb.toString();
+    }
+}
